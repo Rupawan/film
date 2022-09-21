@@ -1,6 +1,6 @@
 #sflix
 #flixhq
 
-https://github.com/Rupawan/film/blob/rupawan/Film.yaml
+https://github.com/Rupawan/film/rupawan/Film.yaml
 
 
