@@ -1,6 +1,7 @@
 # iflix
 # sflix
 payload:
+  - DOMAIN-SUFFIX,tancap888.buzz
   - DOMAIN-SUFFIX,moon-storage-delivery-s04.filemoon.to
   - DOMAIN-SUFFIX,xlnz.vizcloud.ink
   - DOMAIN-SUFFIX,vidstream.pro
