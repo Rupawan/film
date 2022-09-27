@@ -1,6 +1,7 @@
 # iflix
 # sflix
 payload:
+  - DOMAIN-SUFFIX,vidstream.pro
   - DOMAIN-SUFFIX,enma.vizcloud.ink
   - DOMAIN-SUFFIX,dovl.vizcloud.ink
   - DOMAIN-SUFFIX,b-g-ca-14.feetcdn.com
