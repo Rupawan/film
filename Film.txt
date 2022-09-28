@@ -1,6 +1,7 @@
 # iflix
 # sflix
 payload:
+  - DOMAIN-SUFFIX,chillx.top
   - DOMAIN-SUFFIX,vd362.mycdn.me
   - DOMAIN-SUFFIX,tancap888.buzz
   - DOMAIN-SUFFIX,moon-storage-delivery-s04.filemoon.to
