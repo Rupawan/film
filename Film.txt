@@ -1,6 +1,20 @@
 # iflix
 # sflix
 payload:
+  - DOMAIN-SUFFIX,moon-storage-delivery-s01.filemoon.to
+  - DOMAIN-SUFFIX,moon-storage-delivery-s02.filemoon.to
+  - DOMAIN-SUFFIX,moon-storage-delivery-s03.filemoon.to
+  - DOMAIN-SUFFIX,moon-storage-delivery-s05.filemoon.to
+  - DOMAIN-SUFFIX,moon-storage-delivery-s06.filemoon.to
+  - DOMAIN-SUFFIX,moon-storage-delivery-s07.filemoon.to
+  - DOMAIN-SUFFIX,moon-storage-delivery-s08.filemoon.to
+  - DOMAIN-SUFFIX,moon-storage-delivery-s09.filemoon.to
+  - DOMAIN-SUFFIX,moon-storage-delivery-s10.filemoon.to
+  - DOMAIN-SUFFIX,moon-storage-delivery-s11.filemoon.to
+  - DOMAIN-SUFFIX,moon-storage-delivery-s12.filemoon.to
+  - DOMAIN-SUFFIX,moon-storage-delivery-s13.filemoon.to
+  - DOMAIN-SUFFIX,moon-storage-delivery-s14.filemoon.to
+  - DOMAIN-SUFFIX,moon-storage-delivery-s15.filemoon.to
   - DOMAIN-SUFFIX,ok6-12.vkuser.net
   - DOMAIN-SUFFIX,chillx.top
   - DOMAIN-SUFFIX,vd362.mycdn.me
